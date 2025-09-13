@@ -80,3 +80,4 @@ public class MemoryLab {
 
 ```
 ## Explanation Video:
+https://sdccd.us-west-2.instructuremedia.com/embed/ea6ff4ea-2b70-40e4-86c0-467720704386
