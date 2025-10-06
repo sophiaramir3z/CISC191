@@ -42,4 +42,4 @@ public class StepCounter {
 ```
 
 ## Explanation Video:
-
+https://sdccd.us-west-2.instructuremedia.com/embed/8bdfe2d8-4405-4b82-aa38-7c4297337f3c
